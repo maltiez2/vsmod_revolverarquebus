@@ -1,0 +1,18 @@
+﻿[
+  {
+    "ingredientPattern": "LCB,INR,WPW",
+    "ingredients": {
+      "B": {"type": "item", "code": "maltiezfirearms:barrel-arquebus-steel", "quantity": 1},
+      "L": {"type": "item", "code": "maltiezfirearms:lock-flintlock-steel", "quantity": 1},
+      "W": {"type": "item", "code": "game:plank-*", "quantity": 2},
+      "R": {"type": "item", "code": "maltiezfirearms:ramrod-carbine-steel", "quantity": 1},
+      "N": {"type": "item", "code": "game:rod-cupronickel", "quantity": 1},
+      "P": {"type": "item", "code": "game:metalplate-brass", "quantity": 1},
+      "I": {"type": "item", "code": "game:metalplate-iron", "quantity": 1},
+      "C": {"type": "item", "code": "maltiezfirearms:cylinder-bullets-steel", "quantity": 1}
+    },
+    "width": 3,
+    "height": 3,
+    "output": {"type": "item", "code": "maltiezfirearms:firearm-arquebusrevolver-steel"}
+  }
+]
