@@ -3,7 +3,7 @@
   <PropertyGroup>
     <ModName>Revolver Arquebus</ModName>
     <ModType>content</ModType>
-    <ModVersion>0.1.0</ModVersion>
+    <ModVersion>0.1.1</ModVersion>
     <ModId>revolverarquebus</ModId>
     <Description></Description>
     <Side>universal</Side>
@@ -59,9 +59,6 @@
   </PropertyGroup>
 
   <!-- Project item includes -->
-  <ItemGroup>
-    <Folder Include="resources\assets\maltiezfirearms\" />
-  </ItemGroup>
 
   <!-- Formatting JSON files -->
   <PropertyGroup>
